@@ -6,4 +6,4 @@ This repo was created in order to share summary of offensive-security-related co
 ### Contents 
 
 - NAHAMCON 2021
-  - Atomic Red Team hands-on getting started guide by Carrie Roberts Cancel Changes
+  - Atomic Red Team hands-on getting started guide by Carrie Roberts.
