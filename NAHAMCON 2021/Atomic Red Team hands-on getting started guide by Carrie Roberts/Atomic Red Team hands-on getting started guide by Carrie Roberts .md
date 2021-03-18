@@ -57,3 +57,8 @@ https://github.com/redcanaryco/invoke-atomicredteam
 ```
 
 ## Further notes
+
+- Mitre ATT&CK + atomic red team attacker navigator
+```
+https://mitre-attack.github.io/attack-navigator/#layerURL=https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/Indexes/Attack-Navigator-Layers/art-navigator-layer.json
+```
